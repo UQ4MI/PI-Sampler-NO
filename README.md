@@ -2,7 +2,7 @@
 
 Research code accompanying **[Physics-informed sampler for solver-free data generation in operator learning](https://arxiv.org/abs/2509.00867)**, by Wen You, Shaoqian Zhou, Dixia Fan, and Xuhui Meng.
 
-[1D reaction–diffusion](1D_reaction_diffusion/1D_reaction_diffusion) · [2D Poisson](2D_Poisson/2D_Poisson)
+[1D reaction–diffusion](https://github.com/UQ4MI/PI-Sampler-NO/tree/main/1D_reaction_diffusion/1D_reaction_diffusion) · [2D Poisson](https://github.com/UQ4MI/PI-Sampler-NO/tree/main/2D_Poisson/2D_Poisson)
 
 ## Overview
 
