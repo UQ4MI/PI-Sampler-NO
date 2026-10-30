@@ -1,6 +1,13 @@
 # PI-sampler: Solver-free Data Generation for Operator Learning
 
-Research code accompanying **[Physics-informed sampler for solver-free data generation in operator learning](https://arxiv.org/abs/2509.00867)**, by Wen You, Shaoqian Zhou, Dixia Fan, and Xuhui Meng.
+This repository contains the research code accompanying the paper:
+
+**Physics-informed Sampler for Solver-free Data Generation in Operator Learning**
+
+[![arXiv](https://img.shields.io/badge/arXiv-2509.00867-b31b1b.svg)](https://arxiv.org/abs/2509.00867)
+
+**Authors:** Wen You, Shaoqian Zhou, Dixia Fan, and Xuhui Meng.
+
 
 [1D reaction–diffusion](1D_reaction_diffusion/) · [2D Poisson](2D_Poisson/)
 
